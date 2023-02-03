@@ -1,6 +1,6 @@
 const TelegramAPI = require("node-telegram-bot-api")
 
- const axios = require("axios")
+const axios = require("axios")
 const token = "5768758550:AAGH88V1H1R3mZmg7MqJys5zAQx_1HL2JlA"
 
 const firstArida = ["https://ibb.co/yqtGkYZ","https://ibb.co/jV3hZDb","https://ibb.co/3mZ261K","https://ibb.co/VHmFD0q","https://ibb.co/xLqWSDc", "https://ibb.co/3sNrxhK"]
